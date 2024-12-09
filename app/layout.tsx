@@ -7,7 +7,7 @@ import { cn } from "@/utils";
 
 export const metadata: Metadata = {
   title: "RaphaAI | SCI Recovery Assistant with Emotional Intelligence | Created with ❤️ by Raphael Cardona",
-  description: "A Next.js starter using Hume AI's Empathic Voice Interface",
+  description: "Empowering spinal cord injury (SCI) survivors on their recovery journeys",
 };
 
 export default function RootLayout({
